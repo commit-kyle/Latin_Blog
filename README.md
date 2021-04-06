@@ -16,7 +16,7 @@ Disclaimer: React.Suspense has not been implemented to tackle lazy loading withi
 
 Components in this project are class-based.
 
-Moreover, the core purpose of project Latin Blog is to showcase my implementation of React Router DOM to create a Single Page Applcication (SPA).
+Moreover, the core purpose of project Latin Blog is to showcase my implementation of React Router DOM to create a Single Page Application (SPA).
 	
 ## Technologies
 Latin Blog is created using:
@@ -25,7 +25,7 @@ Latin Blog is created using:
 * axios version: 0.16.2
 
 ## Live website
-The link for a live demonstration of how this app works can be found below;
+The link for a live demonstration of how this app works can be found here; 
 [Latin Blog](https://commit-kyle.github.io/latin_blog/)
 
 I hope you've enjoyed it!
